@@ -28,7 +28,6 @@
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=" alt="Python logo" title="Oracle" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=" alt="Python logo" title="TensorFlow" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=" alt="Python logo" title="Bitbucket" height="25" />][tech_tools_anchor] &nbsp;
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=" alt="Python logo" title="Jira" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira+Software&color=0052CC&logo=Jira+Software&logoColor=FFFFFF&label=" alt="Python logo" title="Jira Software" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=" alt="Python logo" title="Confluence" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label= " alt="Python logo" title="PyCharm" height="25" />][tech_tools_anchor] &nbsp;
