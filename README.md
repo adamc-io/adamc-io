@@ -2,10 +2,27 @@
 
 
 ## My Tools
-#### TypeScript Usage 
 
-<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Simple Icons" width=70>
-<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Simple Icons" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
+
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
+
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
+
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
+
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
+
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
+
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python.svg#gh-light-mode-only" alt="Python" width=70>
+<img src="https://raw.githubusercontent.com/adamc-io/adamc-io/main/assets/python-white.svg#gh-dark-mode-only" alt="Python" width=70>
 
 
 
