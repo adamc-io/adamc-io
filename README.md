@@ -16,7 +16,6 @@
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=" alt="Python logo" title="Jupyter" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Power+Automate&color=0066FF&logo=Power+Automate&logoColor=FFFFFF&label=" alt="Python logo" title="Power Automate" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=" alt="Python logo" title="Power Apps" height="25" />][tech_tools_anchor] &nbsp;
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=0FAAFF&logo=SAP&logoColor=FFFFFF&label=" alt="Python logo" title="SAP" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=" alt="Python logo" title="scikit-learn" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=" alt="Python logo" title="SciPy" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt="Python logo" title="MySQL" height="25" />][tech_tools_anchor] &nbsp;
